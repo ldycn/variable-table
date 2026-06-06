@@ -1,0 +1,34 @@
+.__TableSelect__Table__
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  > .ant-table
+  > .ant-table-container
+  > .ant-table-header
+  > table
+  > thead
+  > tr
+  > th {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.__TableSelect__Table__
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  > .ant-table
+  > .ant-table-container
+  > .ant-table-body
+  > table
+  > tbody
+  > tr
+  > td {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.__TableSelect__Selected_Table__Row__ > td {
+  background-color: #d6e4ff !important;
+}
+
+.__TableSelect__unSelect_Table__Row__ > td {
+  background-color: #ffffff !important;
+}

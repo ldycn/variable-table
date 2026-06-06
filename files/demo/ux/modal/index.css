@@ -1,0 +1,6 @@
+.__ux__modal__ {
+  .ant-modal-content {
+    /* border-radius: 8px !important; */
+    padding: 0px !important;
+  }
+}
